@@ -27,6 +27,9 @@ body {
   letter-spacing: 4px;
   font-weight: 100;
   color: red;
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  margin: 60px 0 0 0;
 }
 
 .box h5 {
@@ -70,18 +73,10 @@ header {
   color: white;
 }
 
-h1 {
-  font-family: "Bebas Neue" , sans-serif;
-  text-align: center;
-  font-size: 3em;
-  color: goldenrod;
-  margin: 60px 0 0 0;
-}
-
 .contact-section {
   margin: 2px;
   padding: 5px;
-  font-family: "montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif;
 } 
   
 .contact-section {
@@ -102,7 +97,7 @@ h3 {
   padding: 20px;
   margin: 20px;
   letter-spacing: 2px;
-  font-family: 'Century Gothic' , sans-serif;
+  font-family: 'Century Gothic', sans-serif;
 }
 
 
