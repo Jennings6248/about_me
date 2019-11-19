@@ -42,7 +42,7 @@ body {
 .box p {
   text-align: center;  
   font-size: 17px; 
-  margin: 0px;
+  margin: 0;
 }
 
 ul { 
@@ -54,7 +54,6 @@ ul {
   display: inline-block;
   margin: 8px;
   list-style: none;
-  transition: all ease-in-out 250ms;
 }
 
 .box li a {
@@ -62,6 +61,7 @@ ul {
   text-decoration: none;
   font-size: 70px;
   list-style: none;
+  transition: all ease-in-out 400ms;
 }
 
 .box li a:hover {
